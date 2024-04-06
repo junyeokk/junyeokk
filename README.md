@@ -1,5 +1,6 @@
 ## Skills
 - **Frontend**: React, Javascript, Styled-components, Axios, Zustand
+<br/>
 
 ## Experience
 - `2023.09 ~` Frontend Developer - The Film (Work from home)
