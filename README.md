@@ -8,8 +8,8 @@
 <br/>
 
 ## Activity
-- `2023.09 ~` Google Developer Student Clubs KNU 3rd Member
 - `2024.03 ~` 멋쟁이사자처럼 경북대 12기 운영진
+- `2023.09 ~` Google Developer Student Clubs KNU 3rd Member
 - `2023.03 ~ 2023.12` 멋쟁이사자처럼 경북대 11기 회원
 <br/>
 
