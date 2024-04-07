@@ -34,7 +34,7 @@
 <br/>
 
 ## Certifications
-- `2023.10` TOPCIT 523, Level 3 (Top 16%)
+- `2023.10` TOPCIT 20th; 523 Points (Level 3, Top 16%)
 
 <!--
 **junyeokk/junyeokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
