@@ -2,11 +2,6 @@
 - **Frontend**: React, Javascript, Styled-components, Axios, Zustand
 <br/>
 
-## Experience
-- `2023.09 ~` Frontend Developer - The Film (Work from home)
-- `2021.02 ~ 2022.11` Software Engineer - ROKAF Information Systems Management Group (Full-time)
-<br/>
-
 ## Activity
 - `2024.03 ~ 2024.01` 멋쟁이사자처럼 경북대 12기 운영진
 - `2023.09 ~` Google Developer Student Clubs KNU 3rd Member
@@ -24,6 +19,7 @@
 - `2023.08` 멋쟁이사자처럼 대학 11기 중앙해커톤
 - `2023.07 ~ 2023.08` PICKTRE - 플로깅을 통한 업사이클링 리워드 플랫폼 [제10회 대한민국 SW융합 해커톤대회 출품작]
 - `2023.06 ~ 2023.07` 제11회 K-hackathon
+- `2021.02 ~ 2022.11` 면회신청관리체계 - 계룡대 전군 장병 면회 업무 체계화 [공본직할 정보체계관리단]
 <br/>
 
 ## Awards
