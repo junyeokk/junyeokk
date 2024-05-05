@@ -1,5 +1,9 @@
 ## Skills
-- **Frontend**: React, Javascript, Styled-components, Axios, Zustand
+- **Language**: Javascript, Typescript
+- **Bundler**: Vite
+- **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion
+- **API**: Axios 
+- **State Management**: Zustand
 <br/>
 
 ## Activity
