@@ -1,6 +1,7 @@
 ## Skills
 - **Language**: Javascript, Typescript
 - **Bundler**: Vite
+- **Package Manager**: Pnpm
 - **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion
 - **API**: Axios 
 - **State Management**: Zustand
