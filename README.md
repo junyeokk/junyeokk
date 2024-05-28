@@ -6,14 +6,16 @@
 - **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion
 - **API**: Axios
 - **State Management**: Zustand
-  <br/>
+
+<br/>
 
 ## Activity
 
 - `2024.03 ~` 멋쟁이사자처럼 경북대 12기 운영진
 - `2023.09 ~` Google Developer Student Clubs KNU 3rd Member
 - `2023.03 ~ 2023.12` 멋쟁이사자처럼 경북대 11기 회원
-  <br/>
+
+<br/>
 
 ## Projects
 
@@ -28,7 +30,8 @@
 - `2023.07 ~ 2023.08` PICKTRE - 플로깅을 통한 업사이클링 리워드 플랫폼 [제10회 대한민국 SW융합 해커톤대회 출품작]
 - `2023.06 ~ 2023.07` 제11회 K-hackathon
 - `2021.02 ~ 2022.11` 면회신청관리체계 - 계룡대 전군 장병 면회 업무 체계화 [공본직할 정보체계관리단]
-  <br/>
+
+<br/>
 
 ## Awards
 
@@ -40,7 +43,8 @@
   - _경북대학교 소프트웨어교육원_
 - `2021.02` 2021 SW중심대학 공동해커톤
   - _정보통신기획평가원_
-    <br/>
+
+<br/>
 
 ## Certifications
 
@@ -62,7 +66,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Latest Blog Posts
+
+## Latest Blog Posts
 
 - [2024년 4월 정기회고](https://laurent.tistory.com/entry/2024%EB%85%84-4%EC%9B%94-%EC%A0%95%EA%B8%B0%ED%9A%8C%EA%B3%A0)
 - [네이버 부스트캠프 9기 부캠라디오 요약 (2차, 5/20 월)](https://laurent.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EB%B6%80%EC%BA%A0%EB%9D%BC%EB%94%94%EC%98%A4-%EC%9A%94%EC%95%BD-2%EC%B0%A8-520-%EC%9B%94)
