@@ -1,20 +1,22 @@
 ## Skills
+
 - **Language**: Javascript, Typescript
 - **Bundler**: Vite
 - **Package Manager**: Pnpm
 - **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion
-- **API**: Axios 
+- **API**: Axios
 - **State Management**: Zustand
-<br/>
+  <br/>
 
 ## Activity
+
 - `2024.03 ~` 멋쟁이사자처럼 경북대 12기 운영진
 - `2023.09 ~` Google Developer Student Clubs KNU 3rd Member
 - `2023.03 ~ 2023.12` 멋쟁이사자처럼 경북대 11기 회원
-<br/>
-
+  <br/>
 
 ## Projects
+
 - `2024.05` Hapuruna - 2024 경북대 대동제 안내 웹 페이지
 - `2024.03 ~ 2024.06` Mohaji - 채팅을 통해 협업할 수 있는 동시 편집 서비스 [GDSC KNU 2차 프로젝트]
 - `2024.03` Luminocity - 포항시 유동인구 공공데이터를 활용한 옥외광고 위치 제안 서비스 [AWS 스마트시티 해커톤 출품작]
@@ -26,21 +28,25 @@
 - `2023.07 ~ 2023.08` PICKTRE - 플로깅을 통한 업사이클링 리워드 플랫폼 [제10회 대한민국 SW융합 해커톤대회 출품작]
 - `2023.06 ~ 2023.07` 제11회 K-hackathon
 - `2021.02 ~ 2022.11` 면회신청관리체계 - 계룡대 전군 장병 면회 업무 체계화 [공본직할 정보체계관리단]
-<br/>
+  <br/>
 
 ## Awards
+
 - `2023.12` 2023 대경권 공공데이터활용 경진대회
-  - *경북대학교 소프트웨어교육원*
+  - _경북대학교 소프트웨어교육원_
 - `2023.12` 2023 창업 성과 경진대회
-  - *경북대학교 PRIME사업단*
+  - _경북대학교 PRIME사업단_
 - `2023.09` 2023 멋쟁이사자처럼 대경권 연합해커톤
-  - *경북대학교 소프트웨어교육원*
+  - _경북대학교 소프트웨어교육원_
 - `2021.02` 2021 SW중심대학 공동해커톤
-  - *정보통신기획평가원*
-<br/>
+  - _정보통신기획평가원_
+    <br/>
 
 ## Certifications
+
 - `2023.10` TOPCIT 20th; 523 Points (Level 3, Top 16%)
+
+<br />
 
 <!--
 **junyeokk/junyeokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
