@@ -1,0 +1,17 @@
+{
+  "name": "junyeokk",
+  "version": "1.0.0",
+  "description": "- **Language**: Javascript, Typescript - **Bundler**: Vite - **Package Manager**: Pnpm - **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion - **API**: Axios  - **State Management**: Zustand <br/>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
