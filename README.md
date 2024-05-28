@@ -69,3 +69,4 @@ Here are some ideas to get you started:
 - [[서평] IT 업계 노하우 에센스 - 개발자를 위한 커리어 관리 핸드북](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-IT-%EC%97%85%EA%B3%84-%EB%85%B8%ED%95%98%EC%9A%B0-%EC%97%90%EC%84%BC%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B4%80%EB%A6%AC-%ED%95%B8%EB%93%9C%EB%B6%81)
 - [[서평] 프론트엔드 입문서 - 제로초의 자바스크립트 입문](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%84%9C-%EC%A0%9C%EB%A1%9C%EC%B4%88%EC%9D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
 - [[서평] 트러블슈팅 개론서 - 자바 잘 읽는 법](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-%EA%B0%9C%EB%A1%A0%EC%84%9C-%EC%9E%90%EB%B0%94-%EC%9E%98-%EC%9D%BD%EB%8A%94-%EB%B2%95)
+
