@@ -18,7 +18,7 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://laurent.tistory.com/rss");
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = "### Latest Blog Posts\n\n";
+  let latestPosts = "## Latest Blog Posts\n\n";
   feed.items.slice(0, 5).forEach(({ title, link }) => {
     latestPosts += `- [${title}](${link})\n`;
   });
