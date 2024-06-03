@@ -24,9 +24,9 @@ const parser = new Parser({
   });
 
   // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("### Latest Blog Posts")
+  const newReadmeContent = readmeContent.includes("## Latest Blog Posts")
     ? readmeContent.replace(
-        /### Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
+        /## Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
       )
     : readmeContent + latestPosts;
