@@ -6,6 +6,7 @@
 - **Styling**: MUI, Tailwind CSS, Styled-components, Framer-Motion
 - **API**: Axios
 - **State Management**: Zustand
+- **Deploy**: AWS S3, AWS CloudFront
 
 <br/>
 
