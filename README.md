@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[Javascript] var 키워드의 문제점과 호이스팅](https://laurent.tistory.com/entry/Javascript-var-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EA%B3%BC-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
 - [[Javascript] 데이터 타입의 필요성](https://laurent.tistory.com/entry/Javascript-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1)
 - [[취준] 신입 개발자 포트폴리오 적는 방법](https://laurent.tistory.com/entry/%EC%B7%A8%EC%A4%80-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%81%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [[취준] 신입 개발자를 뽑을 때 중요하게 보는 것](https://laurent.tistory.com/entry/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%BD%91%EC%9D%84-%EB%95%8C-%EC%A4%91%EC%9A%94%ED%95%98%EA%B2%8C-%EB%B3%B4%EB%8A%94-%EA%B2%83)
 - [2024년 5월 정기회고](https://laurent.tistory.com/entry/2024%EB%85%84-5%EC%9B%94-%EC%A0%95%EA%B8%B0%ED%9A%8C%EA%B3%A0)
-- [네이버 부스트캠프 9기 부캠라디오 요약 (2차, 5/20 월)](https://laurent.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EB%B6%80%EC%BA%A0%EB%9D%BC%EB%94%94%EC%98%A4-%EC%9A%94%EC%95%BD-2%EC%B0%A8-520-%EC%9B%94)
 
