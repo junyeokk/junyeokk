@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [파이썬에서 시간 복잡도 줄이기](https://laurent.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 - [[Javascript] const 키워드](https://laurent.tistory.com/entry/Javascript-const-%ED%82%A4%EC%9B%8C%EB%93%9C)
 - [[Javascript] let 키워드, 일시적 사각지대](https://laurent.tistory.com/entry/Javascript-let-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%9D%BC%EC%8B%9C%EC%A0%81-%EC%82%AC%EA%B0%81%EC%A7%80%EB%8C%80)
 - [[Javascript] var 키워드의 문제점과 호이스팅](https://laurent.tistory.com/entry/Javascript-var-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EA%B3%BC-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
 - [[Javascript] 데이터 타입의 필요성](https://laurent.tistory.com/entry/Javascript-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1)
-- [[취준] 신입 개발자 포트폴리오 적는 방법](https://laurent.tistory.com/entry/%EC%B7%A8%EC%A4%80-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%81%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
