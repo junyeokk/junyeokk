@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [파이썬 문자열 문제 유형](https://laurent.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%AC%B8%EC%A0%9C-%EC%9C%A0%ED%98%95)
 - [[프로그래머스] 교점에 별 만들기 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%90%EC%A0%90%EC%97%90-%EB%B3%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-python)
 - [파이썬에서 시간 복잡도 줄이기](https://laurent.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 - [[Javascript] const 키워드](https://laurent.tistory.com/entry/Javascript-const-%ED%82%A4%EC%9B%8C%EB%93%9C)
 - [[Javascript] let 키워드, 일시적 사각지대](https://laurent.tistory.com/entry/Javascript-let-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%9D%BC%EC%8B%9C%EC%A0%81-%EC%82%AC%EA%B0%81%EC%A7%80%EB%8C%80)
-- [[Javascript] var 키워드의 문제점과 호이스팅](https://laurent.tistory.com/entry/Javascript-var-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EA%B3%BC-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
 
