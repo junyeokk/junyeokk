@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 컴퓨팅 사고 - 알고리즘](https://laurent.tistory.com/entry/CS50-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%82%AC%EA%B3%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [[CS50] 컴퓨팅 사고 - 정보의 표현](https://laurent.tistory.com/entry/CS50-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%82%AC%EA%B3%A0-%EC%A0%95%EB%B3%B4%EC%9D%98-%ED%91%9C%ED%98%84)
 - [[CS50] 컴퓨팅 사고 - 2진법](https://laurent.tistory.com/entry/CS50-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%82%AC%EA%B3%A0-2%EC%A7%84%EB%B2%95)
 - [[프로그래머스] 기지국 설치 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98-python)
 - [[프로그래머스] 예상 대진표 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%88%EC%83%81-%EB%8C%80%EC%A7%84%ED%91%9C-python)
-- [[프로그래머스] 땅따먹기 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0-python)
 
