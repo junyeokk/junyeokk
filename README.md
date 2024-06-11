@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[프로그래머스] 오픈채팅방 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-python)
 - [[프로그래머스] 구명보트 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8-python)
 - [[프로그래머스] 스킬트리 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC-python)
 - [[CS50] C언어 - C 기초, 컴파일러](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-C-%EA%B8%B0%EC%B4%88-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
 - [[CS50] 컴퓨팅 사고 - 알고리즘](https://laurent.tistory.com/entry/CS50-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%82%AC%EA%B3%A0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [[CS50] 컴퓨팅 사고 - 정보의 표현](https://laurent.tistory.com/entry/CS50-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%82%AC%EA%B3%A0-%EC%A0%95%EB%B3%B4%EC%9D%98-%ED%91%9C%ED%98%84)
 
