@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] C언어 - 문자열](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [[프로그래머스] 줄 서는 방법 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A4%84-%EC%84%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-python)
 - [[Goorm level] 회전 배열 (python)](https://laurent.tistory.com/entry/Goorm-level-%ED%9A%8C%EC%A0%84-%EB%B0%B0%EC%97%B4-python)
 - [[프로그래머스] 124 나라의 숫자 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-124-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%88%AB%EC%9E%90-python)
 - [[프로그래머스] 오픈채팅방 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-python)
-- [[프로그래머스] 구명보트 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8-python)
 
