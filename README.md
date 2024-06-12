@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] C언어 - 하드웨어의 한계](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%9D%98-%ED%95%9C%EA%B3%84)
 - [[CS50] C언어 - 사용자 정의 함수, 중첩 루프](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98-%EC%A4%91%EC%B2%A9-%EB%A3%A8%ED%94%84)
 - [[CS50] C언어 - 자료형, 형식 지정자, 연산자](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%EC%9E%90%EB%A3%8C%ED%98%95-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%EC%9E%90-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[CS50] C언어 - 문자열](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [[프로그래머스] 줄 서는 방법 (python)](https://laurent.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A4%84-%EC%84%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-python)
-- [[Goorm level] 회전 배열 (python)](https://laurent.tistory.com/entry/Goorm-level-%ED%9A%8C%EC%A0%84-%EB%B0%B0%EC%97%B4-python)
 
