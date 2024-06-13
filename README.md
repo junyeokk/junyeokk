@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 배열 - 문자열과 배열](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EB%B0%B0%EC%97%B4)
 - [[CS50] 배열 - 배열(2)](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%B0%B0%EC%97%B42)
 - [[CS50] 배열 - 배열(1)](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%B0%B0%EC%97%B41)
 - [[CS50] 배열 - 디버깅](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%94%94%EB%B2%84%EA%B9%85)
 - [[CS50] 배열 - 컴파일링](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%A7%81)
-- [[CS50] C언어 - 하드웨어의 한계](https://laurent.tistory.com/entry/CS50-C%EC%96%B8%EC%96%B4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%9D%98-%ED%95%9C%EA%B3%84)
 
