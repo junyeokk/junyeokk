@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 배열 - 명령행 인자](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AA%85%EB%A0%B9%ED%96%89-%EC%9D%B8%EC%9E%90)
 - [[CS50] 배열 - 문자열의 활용](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98-%ED%99%9C%EC%9A%A9)
 - [[CS50] 배열 - 문자열과 배열](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EB%B0%B0%EC%97%B4)
 - [[CS50] 배열 - 배열(2)](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%B0%B0%EC%97%B42)
 - [[CS50] 배열 - 배열(1)](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%B0%B0%EC%97%B41)
-- [[CS50] 배열 - 디버깅](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%94%94%EB%B2%84%EA%B9%85)
 
