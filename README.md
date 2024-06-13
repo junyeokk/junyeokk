@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 알고리즘 - 알고리즘 표기법](https://laurent.tistory.com/entry/CS50-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%91%9C%EA%B8%B0%EB%B2%95)
 - [[CS50] 알고리즘 - 선형 검색, 이진 검색](https://laurent.tistory.com/entry/CS50-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A0%ED%98%95-%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89)
 - [[CS50] 배열 - 명령행 인자](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AA%85%EB%A0%B9%ED%96%89-%EC%9D%B8%EC%9E%90)
 - [[CS50] 배열 - 문자열의 활용](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98-%ED%99%9C%EC%9A%A9)
 - [[CS50] 배열 - 문자열과 배열](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EB%B0%B0%EC%97%B4)
-- [[CS50] 배열 - 배열(2)](https://laurent.tistory.com/entry/CS50-%EB%B0%B0%EC%97%B4-%EB%B0%B0%EC%97%B42)
 
