@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[컴퓨터구조] 키보드에서 키를 눌러 화면에 나오기까지](https://laurent.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%ED%99%94%EB%A9%B4%EC%97%90-%EB%82%98%EC%98%A4%EA%B8%B0%EA%B9%8C%EC%A7%80)
 - [[CS50] 메모리 - 포인터](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0)
 - [[CS50] 메모리 - 메모리 주소](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A3%BC%EC%86%8C)
 - [[CS50] 알고리즘 - 재귀](https://laurent.tistory.com/entry/CS50-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%AC%EA%B7%80)
 - [[CS50] 알고리즘 - 버블 정렬](https://laurent.tistory.com/entry/CS50-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC)
-- [[CS50] 알고리즘 - 알고리즘 표기법](https://laurent.tistory.com/entry/CS50-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%91%9C%EA%B8%B0%EB%B2%95)
 
