@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 메모리 - 메모리 교환, 스택, 힙](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%90%ED%99%98-%EC%8A%A4%ED%83%9D-%ED%9E%99)
 - [[CS50] 메모리 - 문자열 비교, 복사, 할당과 해제](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B9%84%EA%B5%90-%EB%B3%B5%EC%82%AC-%ED%95%A0%EB%8B%B9%EA%B3%BC-%ED%95%B4%EC%A0%9C)
 - [[CS50] 메모리 - 문자열](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [[컴퓨터구조] 키보드에서 키를 눌러 화면에 나오기까지](https://laurent.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%ED%82%A4%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%ED%82%A4%EB%A5%BC-%EB%88%8C%EB%9F%AC-%ED%99%94%EB%A9%B4%EC%97%90-%EB%82%98%EC%98%A4%EA%B8%B0%EA%B9%8C%EC%A7%80)
 - [[CS50] 메모리 - 포인터](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0)
-- [[CS50] 메모리 - 메모리 주소](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A3%BC%EC%86%8C)
 
