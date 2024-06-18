@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 자료구조 - 트라이](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%9D%BC%EC%9D%B4)
 - [[CS50] 자료구조 - 해시 테이블](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%95%B4%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94)
 - [[CS50] 자료구조 - 연결 리스트](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 - [[CS50] 자료구조 - 배열의 크기 조정하기](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[CS50] 자료구조 - malloc과 포인터 복습](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-malloc%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EB%B3%B5%EC%8A%B5)
-- [[CS50] 메모리 - 파일 읽기](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0)
 
