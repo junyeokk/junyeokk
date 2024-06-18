@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[CS50] 자료구조 - malloc과 포인터 복습](https://laurent.tistory.com/entry/CS50-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-malloc%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EB%B3%B5%EC%8A%B5)
 - [[CS50] 메모리 - 파일 읽기](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0)
 - [[CS50] 메모리 - 파일 쓰기](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8C%8C%EC%9D%BC-%EC%93%B0%EA%B8%B0)
 - [[CS50] 메모리 - 메모리 교환, 스택, 힙](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%90%ED%99%98-%EC%8A%A4%ED%83%9D-%ED%9E%99)
 - [[CS50] 메모리 - 문자열 비교, 복사, 할당과 해제](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B9%84%EA%B5%90-%EB%B3%B5%EC%82%AC-%ED%95%A0%EB%8B%B9%EA%B3%BC-%ED%95%B4%EC%A0%9C)
-- [[CS50] 메모리 - 문자열](https://laurent.tistory.com/entry/CS50-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%AC%B8%EC%9E%90%EC%97%B4)
 
