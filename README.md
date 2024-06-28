@@ -58,6 +58,7 @@
 
 ## Certifications
 
+- `2024.06` 리눅스마스터 2급
 - `2024.06` SQLD
 - `2023.10` TOPCIT 20th; 523 Points (Level 3, Top 16%)
 
