@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [인프콘 2024 랠릿 허브 등록 이벤트](https://laurent.tistory.com/entry/%EC%9D%B8%ED%94%84%EC%BD%98-2024-%EB%9E%A0%EB%A6%BF-%ED%97%88%EB%B8%8C-%EB%93%B1%EB%A1%9D-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
 - [네이버 부스트캠프 9기 베이직 + 2차 문제 해결력 테스트 회고](https://laurent.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EB%B2%A0%EC%9D%B4%EC%A7%81-2%EC%B0%A8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EB%A0%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 - [[서평] 그림으로 쉽고 빠르게 배우는 - AWS 시스템 개발 스킬업](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-AWS-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%82%AC%EC%97%85)
 - [2024년 6월 정기회고](https://laurent.tistory.com/entry/2024%EB%85%84-6%EC%9B%94-%EC%A0%95%EA%B8%B0%ED%9A%8C%EA%B3%A0)
 - [[서평] 노드 원리와 실무 가이드 - 업무에 활용하는 Node.js](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%EB%85%B8%EB%93%9C-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%97%85%EB%AC%B4%EC%97%90-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-Nodejs)
-- [[운영체제] 프로세스의 상태 변화, 프로세스 제어 블록 (PCB)](https://laurent.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%EC%83%81%ED%83%9C-%EB%B3%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%9C%EC%96%B4-%EB%B8%94%EB%A1%9D-PCB)
 
