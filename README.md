@@ -83,9 +83,9 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 
+- [[부스트캠프 9기 챌린지] 2주차 회고](https://laurent.tistory.com/entry/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [[부스트캠프 9기 챌린지] 수료생과의 밋업](https://laurent.tistory.com/entry/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%88%98%EB%A3%8C%EC%83%9D%EA%B3%BC%EC%9D%98-%EB%B0%8B%EC%97%85)
 - [[부스트캠프 9기 챌린지] 1주차 회고](https://laurent.tistory.com/entry/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-9%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [[서평] 문제와 해설을 한 번에 - 이기적 정보처리기사 실기 핵심 600제](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EC%84%A4%EC%9D%84-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%9D%B4%EA%B8%B0%EC%A0%81-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%B5%EC%8B%AC-600%EC%A0%9C)
 - [[C언어] 문자와 문자열](https://laurent.tistory.com/entry/C%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4)
-- [[서평] 테스트 개론 - 프런트엔드 개발을 위한 테스트 입문](https://laurent.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EB%A1%A0-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8)
 
