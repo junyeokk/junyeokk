@@ -6,7 +6,7 @@
 - 협업과 지식 공유를 즐기는 개발자입니다.
 
 ### Currently
-- Naver boostcamp 9th web | 2024.06 ~ 2024.12
+- **Naver boostcamp 9th web** | 2024.06 ~ 2024.12
 
 ### Interested Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
