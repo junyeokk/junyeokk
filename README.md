@@ -23,8 +23,8 @@
 - [멋쟁이사자처럼 경북대 12기 운영진](https://github.com/LikeLion-KNU) | `2024.03 ~ 2024.12`
 - [Google Developer Student Clubs KNU 3rd Member](https://github.com/GDG-on-Campus-KNU) | `2023.09 ~ 2024.06`
 - [멋쟁이사자처럼 경북대 11기 회원](https://github.com/LikeLion-KNU) | `2023.03 ~ 2023.12`
-- [Kyungpook National University](https://www.knu.ac.kr/wbbs/wbbs/main/main.action ) | `2023.03 ~ `
-- 공본직할 정보체계관리단, 프로그램작성병 | `2021.02 ~ 2022.11`
+- [Kyungpook Nat'l Univ.](https://www.knu.ac.kr/wbbs/wbbs/main/main.action ) | `2023.03 ~ `
+- [공본직할 정보체계관리단 프로그램작성병](https://rokaf.airforce.mil.kr/sites/airforce/index.do) | `2021.02 ~ 2022.11`
 
 <br />
 
