@@ -13,8 +13,8 @@
 
 ## Currently on..
 - [**구름톤 유니브 경북대 4기 운영진**](https://9oormthon.university/) | `2025.03 ~ `
+- [**경북대학교 컴퓨터학부 홍보단 웹마스터**](https://computer.knu.ac.kr) | `2025.03 ~ `
 - [**Kyungpook Nat'l Univ.**](https://www.knu.ac.kr/wbbs/wbbs/main/main.action ) | `2023.03 ~ `
-- [**경북대학교 컴퓨터학부 홍보단 웹마스터**](https://computer.knu.ac.kr) | `2023.03 ~ `
 
 <br />
 
