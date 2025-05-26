@@ -19,10 +19,8 @@
 <br />
 
 ## History
-- [Naver boostcamp 9th web refactoring weeks](https://boostcamp.connect.or.kr/program_wm.html) | `2025.01 ~ 2025.02`
-- [Naver boostcamp 9th web membership](https://boostcamp.connect.or.kr/program_wm.html) | `2024.08 ~ 2024.12`
+- [Naver boostcamp 9th web](https://boostcamp.connect.or.kr/program_wm.html) | `2024.06 ~ 2025.02`
 - [멋쟁이사자처럼 경북대 12기 운영진](https://github.com/LikeLion-KNU) | `2024.03 ~ 2024.12`
-- [Naver boostcamp 9th web challenge](https://boostcamp.connect.or.kr/program_wm.html) | `2024.06 ~ 2024.08`
 - [GDGoC KNU 3rd](https://github.com/GDG-on-Campus-KNU) | `2023.09 ~ 2024.06`
 - [멋쟁이사자처럼 경북대 11기](https://github.com/LikeLion-KNU) | `2023.03 ~ 2023.12`
 - [공본직할 정보체계관리단 프로그램작성병](https://rokaf.airforce.mil.kr/sites/airforce/index.do) | `2021.02 ~ 2022.11`
